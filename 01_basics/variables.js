@@ -12,3 +12,4 @@ the best way to declare variables is let
 console table is a good method to print multiple values in a tabular format
 if value of a variable is not declared js stores it as undefined
  /*
+
