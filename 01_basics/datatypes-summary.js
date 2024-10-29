@@ -40,4 +40,7 @@ console.log(typeof anotherId);
 
 let myYoutubename="Harsh Srivastava"
 let anothername=myYoutubename;
+anothername="gg"
 console.log(anothername);
+console.log(myYoutubename);
+// another name will have the changed value which is gg but my youtube name will have the same old value
