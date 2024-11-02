@@ -22,16 +22,16 @@ const hundreds= 100000000
 //rounds off to nearest max value(6.05--->7)
 //console.log(Math.floor(6.95));
 //rounds off to nearest min value(6.95---->6)
-console.log(Math.min(3,4,8,9,1));
+//console.log(Math.min(3,4,8,9,1));
 //returns minimum element of array
-console.log(Math.max(3,4,8,9,1));
+//console.log(Math.max(3,4,8,9,1));
 //returns maximum element of array
 console.log(Math.random());
 console.log((Math.random()*10)+1);
 console.log(Math.floor(Math.random()*10)+1);
 const min=10
 const max=20
-console.log(Math.floor(Math.));
+console.log(Math.floor(Math.random() * (max-min+1))+min);
 
 
 
