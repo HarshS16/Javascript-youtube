@@ -8,4 +8,6 @@ console.log(balance.toFixed(2));
 console.log(balance.toPrecision(4));
 //above statement rounds off the number to atmost 4 digits(4 most significant digits)
 
-
+const hundreds= 100000000
+console.log(hundreds.toLocaleString('en-IN'));
+//above statement adds commas to the large number, if bracket is empty it adds according to us standards
