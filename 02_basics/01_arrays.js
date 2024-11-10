@@ -39,3 +39,4 @@ console.log(myn2);
 console.log(myArr);
 // splice also returns a new array with a section of the original array but it also includes the second element(range) 
 // splice also changes the main array and deletes the spliced elements from the main array , slide doesn't do so 
+
