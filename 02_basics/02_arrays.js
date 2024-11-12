@@ -7,6 +7,9 @@ const all_heros=marvel_heros.concat(dc_heros)
 //takes all element of dc and adds them into marvel as elements of the array
 
 
+
+
+
 const all_new_heros=[...marvel_heros,...dc_heros]
 //using spread operator to combine two arrays into one
 // spread operator spreads all the elements of the arrays and merges them , here we can add more arrays also
