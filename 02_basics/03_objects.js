@@ -5,3 +5,6 @@ there is another method used for declaring objects in JavaScript
 const JsUser = {}
 
 
+
+
+
