@@ -1,6 +1,9 @@
+
 // const tinderUser = new Object()
 const tinderUser = {}
-
+example of object used to store details of a user for a social media app
+an object can also store an object 
+we can do this nesting as deep as we want.
 tinderUser.id = "123abc"
 tinderUser.name = "Sammy"
 tinderUser.isLoggedIn = false
