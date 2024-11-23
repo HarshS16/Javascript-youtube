@@ -79,3 +79,5 @@ console.log(instructor);
     {},
     {}
 ]
+APIs are used for performing a large number of tasks by designated short cuts. Apis are linked through JSON files in JavaScript.
+
