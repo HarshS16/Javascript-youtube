@@ -91,5 +91,5 @@ console.log(instructor);
     {},
     {}
 ]
-APIs are used for performing a large number of tasks by designated short cuts. Apis are linked through JSON files in JavaScript.
+APIs are used to perform a large number of tasks using designated shortcuts. They are linked through JSON files in JavaScript.
 
