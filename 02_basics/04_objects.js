@@ -6,7 +6,6 @@ an object can also store an object
 we can do this nesting as deep as we want.
 
 
-
 tinderUser.id = "123abc"
 tinderUser.name = "Sammy"
 tinderUser.isLoggedIn = false
