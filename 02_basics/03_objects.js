@@ -2,6 +2,7 @@
 // object literals
 //object.create()   this is the constructor method
 there is another method used for declaring objects in JavaScript 
+
 const JsUser = {
     name: "Harsh",
     college:"JSS",
@@ -11,6 +12,7 @@ const JsUser = {
     isLoggedin="FALSE",
     Lastlogindays=["Monday", "tuesday", "wednesday"]
 }
+
 // console.log(JsUser.email)
 // console.log(JsUser["email"])
 // console.log(JsUser["full name"])
