@@ -23,8 +23,8 @@ if (Object.keys(emptyObj).length === 0) {
     console.log("Object is empty");
 }
 
-// Nullish Coalescing Operator (??): null undefined
-
+// Nullish Coalescing Operator (??): null undefined 
+// use for fallback situations to give atleast one value to the variable
 let val1;
 // val1 = 5 ?? 10
 // val1 = null ?? 10
@@ -35,7 +35,7 @@ val1 = null ?? 10 ?? 20
 
 console.log(val1);
 
-// Terniary Operator
+// Ternary Operator
 
 // condition ? true : false
 
