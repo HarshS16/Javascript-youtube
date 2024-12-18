@@ -12,6 +12,15 @@
     </ul>
 </body>
 <script>
+/*************  ✨ Codeium Command ⭐  *************/
+/**
+ * Adds a new list item with the specified language name to the unordered list
+ * with the class 'language'.
+ *
+ * @param {string} langName - The name of the language to be added as a list item.
+ */
+
+/******  66f2efd5-0930-4f3d-b524-e7451576db5c  *******/
     function addLanguage(langName){
         const li = document.createElement('li');
         li.innerHTML = `${langName}`
@@ -38,11 +47,8 @@
     //edit
     const firstLang = document.querySelector("li:first-child")
     firstLang.outerHTML = '<li>TypeScript</li>'
-
     //remove
     const lastLang = document.querySelector('li:last-child')
     lastLang.remove()
-
-
 </script>
 </html>
