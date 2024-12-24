@@ -6,3 +6,5 @@ const promiseOne = new Promise(function(resolve, reject){
         resolve()
     }, 1000)
 })
+
+const networkTask = new Promise(function(resolve, reject){
