@@ -8,3 +8,14 @@ const promiseOne = new Promise(function(resolve, reject){
 })
 
 const networkTask = new Promise(function(resolve, reject){
+
+
+
+
+}
+
+promiseOne.then(function(){ //fulfilled
+    console.log('Promise is fullfilled');
+}).catch(function(){  //rejected
+    console.log('Promise is rejected');
+});
