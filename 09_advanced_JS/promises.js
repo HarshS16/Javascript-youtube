@@ -7,7 +7,7 @@ const promiseOne = new Promise(function(resolve, reject){
     }, 1000)
 })
 
-}
+
 
 promiseOne.then(function(){ //fulfilled
     console.log('Promise is fullfilled');
