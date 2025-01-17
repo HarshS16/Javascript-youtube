@@ -33,5 +33,8 @@ function User(username, loginCount, isLoggedIn){
 
 const userOne = new User("hitesh", 12, true)
 const userTwo = new User("ChaiAurCode", 11, false)
+// new keyword creates an empty new object or rather creates a new instance of the old defined object
+// new keyword calles a constructor function , then the this function injects into the new object , then we get the output
+
 console.log(userOne.constructor);
 //console.log(userTwo);
